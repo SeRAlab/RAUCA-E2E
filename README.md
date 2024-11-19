@@ -39,3 +39,7 @@ TO get camouflage:
 ```bash
 python src/generate_camouflage_E2E.py
 ```
+## generated texture
+The generated texture of RAUCA-E2E is in the form of `.png`, which can be deployed directly, we offer our optimized result [here](https://github.com/SeRAlab/RAUCA-E2E/blob/main/src/textures/RAUCA_E2E.png).
+
+
