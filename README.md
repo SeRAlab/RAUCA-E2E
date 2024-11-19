@@ -26,10 +26,11 @@ Note that, our code is based on [Yolo-V3](https://github.com/ultralytics/yolov3)
 The generalized object EFE weight and finetuned EFE weight for car can be find.
 
 ## Dataset:
-The latest dataset for adversarial camouflage generation can get [here](https://pan.baidu.com/s/13JvV0iOJs497iWsswQiqPA?pwd=cu1j) or 
+The latest dataset for adversarial camouflage generation can get [Baidu Cloaddisk](https://pan.baidu.com/s/13JvV0iOJs497iWsswQiqPA?pwd=cu1j) or [IEEE Dataset](https://ieee-dataport.org/documents/multi-weather-vehicle-dataset-camouflage-generation)
 
 ## EFE weight
-We offer the pre-trained [EFE weight](https://pan.baidu.com/s/1BWit8yw5Ted2-58y1zgS_w?pwd=k16h) and [Audi Etron's EFE weight](https://pan.baidu.com/s/1z_EMogA2fxjsEWw78c2pDw?pwd=5uds) 
+We offer the  [pre-trained EFE weight](https://pan.baidu.com/s/1BWit8yw5Ted2-58y1zgS_w?pwd=k16h) and [Audi Etron's EFE weight](https://pan.baidu.com/s/1z_EMogA2fxjsEWw78c2pDw?pwd=5uds) 
+
 ## Run:
 TO train NRP:
 ```bash
