@@ -21,7 +21,7 @@ before you running the code, you must install the `neural renderer` python packa
 
 other requirements are listed in src/requirements.txt
 
-Note that, our code is based on [Yolo-V3](https://github.com/ultralytics/yolov3) implementation. Dowdload the YOLO-V3 weight from [https://github.com/ultralytics/yolov3/releases/download/v9.5.0/yolov3.pt](https://github.com/ultralytics/yolov3/releases/download/v9.5.0/yolov3.pt) and put it into src folder.
+Note that, our code is based on [Yolo-V3](https://github.com/ultralytics/yolov3) implementation. Dowdload the YOLO-V3 weight from [here](https://github.com/ultralytics/yolov3/releases/download/v9.5.0/yolov3.pt) and put it into src folder.
 
 The generalized object EFE weight and finetuned EFE weight for car can be find.
 
