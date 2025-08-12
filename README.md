@@ -1,8 +1,8 @@
-# RAUCA_E2E: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors
+# [TDSC 2025] RAUCA_E2E: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors
 
 #This is the official implementation and case study of our paper: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors
 
-The paper can be find in [here](https://arxiv.org/abs/2411.10029). Source code can be find in [here](https://github.com/SeRAlab/Robust-and-Accurate-UV-map-based-Camouflage-Attack/tree/main/src)
+The paper can be find in [here](https://arxiv.org/abs/2411.10029). TDSC final version paper can be find in [here](https://ieeexplore.ieee.org/document/11119058) Source code can be find in [here](https://github.com/SeRAlab/Robust-and-Accurate-UV-map-based-Camouflage-Attack/tree/main/src)
 
 ## Abstract
 Adversarial camouflage is a widely used physical attack against vehicle detectors for its superiority in multi-view attack performance. One promising approach involves using differentiable neural renderers to facilitate adversarial camouflage optimization through gradient back-propagation. However, existing methods often struggle to capture environmental characteristics during the rendering process or produce adversarial textures that can precisely map to the target vehicle. 
