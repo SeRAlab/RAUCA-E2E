@@ -1,6 +1,6 @@
 # [TDSC 2025] RAUCA_E2E: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors
 
-This is the official implementation and case study of our paper: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors
+This is the official implementation and case study of our paper: Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors. This paper has been accepted by IEEE Transactions on Dependable and Secure Computing in 2025
 
 The paper can be find in [here](https://arxiv.org/abs/2411.10029). TDSC final version paper can be find in [here](https://ieeexplore.ieee.org/document/11119058). Source code can be find in [here](https://github.com/SeRAlab/Robust-and-Accurate-UV-map-based-Camouflage-Attack/tree/main/src).
 
